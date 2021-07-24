@@ -1,0 +1,19 @@
+{
+  "name": "bot-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "axia",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "help": "^3.0.2",
+    "moment": "^2.29.1",
+    "momment": "0.0.1"
+  }
+}
